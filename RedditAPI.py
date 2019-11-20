@@ -5,11 +5,11 @@ import datetime as dt
 
 #Praw = Python Reddit APi Wrapper
 
-reddit = praw.Reddit(client_id='r0XibIX-xKzIFQ', \
-                     client_secret='zXLm-tDUZBinKtWYB4LJ3GYEuVk', \
-                     user_agent='RedditAPI', \
-                     username='raulb1030', \
-                     password='BeerOpener2291!')
+reddit = praw.Reddit(client_id='', \
+                     client_secret='', \
+                     user_agent='', \
+                     username='', \
+                     password='')
 #subreddit variables
 
 subreddit = reddit.subreddit('Soccer')
